@@ -33,4 +33,4 @@
 🍼 Education? Programming, Psychology, Statistics  
 
 🚧 This site is under construction (no algorithms until sponsoring)  
-🔭 For more information see <a href="www.greensort.org">greensort.org</a>  
+🔭 For more information see <i><a href="www.greensort.org">greensort.org</a></i>  
