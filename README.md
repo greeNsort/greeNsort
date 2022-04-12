@@ -9,9 +9,9 @@
 🚂 Method: analyzing the prior-art and  
 🚀 designing and testing many innovative algorithms  
 
-🌵 Result? Was a a thorny 12-year journey  
-🍄 identified poisened limiting assumptions  
-🌻 designed a new theory of sorting including  
+🌵 Result? A a thorny 12-year journey  
+🍄 identifing poisened limiting assumptions  
+🌻 desiging a new theory of sorting including  
 📐 new sustainable measurements and  
 🎨 new methods that are simple and beautiful and    
 🔧 new algorithms with better trade-offs  
