@@ -12,9 +12,9 @@
 🌵 <i><a href="https://greensort.org/results.html">Result?</a></i> A a thorny 12-year journey  
 🍄 identifing poisened limiting assumptions  
 🌻 desiging a new theory of sorting with  
-📐 new sustainability measurements   
+📐 new <i><a href="https://greensort.org/GSF_SCI.html">sustainability measurements</a></i>   
 🎨 new methods that are simple and beautiful     
-🔧 new algorithms with better trade-offs  
+🔧 new <i><a href="https://greensort.org/portfolio.html">algorithms</a></i> with better trade-offs  
 
 🦆 <i><a href="https://greensort.org/glossary.html#ducksort">Ducksort</a></i> ducks prior-art <i><a href="https://greensort.org/glossary.html#quicksort">Quicksort</a></i> algorithms  
 🦢 plus stable <i><a href="https://greensort.org/glossary.html#swansort">Swansort</a></i> and travelling <i><a href="https://greensort.org/glossary.html#storksort">Storksort</a></i>  
