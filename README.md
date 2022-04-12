@@ -1,4 +1,3 @@
-
 🏡 This is the central <i>greeNsort®</i> repository  
 🌱 <i>greeNsort®</i> makes software greener  
 🌿 less runtime, energy and CO2  
@@ -12,17 +11,17 @@
 
 🌵 Result? A a thorny 12-year journey  
 🍄 identifing poisened limiting assumptions  
-🌻 desiging a new theory of sorting including  
-📐 new sustainability measurements and  
-🎨 new methods that are simple and beautiful and    
+🌻 desiging a new theory of sorting with  
+📐 new sustainability measurements   
+🎨 new methods that are simple and beautiful     
 🔧 new algorithms with better trade-offs  
 
-🦆 Ducksort ducks prior-art Quicksort algorithms  
+🦆 <a href="https://greensort.org/glossary.html#ducksort">Ducksort</a> ducks prior-art Quicksort algorithms  
 🦢 plus stable Swansort and travelling Storksort  
-🦎 Frogsorts and Geckosorts need less memory than Mergesort  
+🦎 Frogsorts, Geckosort need less memory than Mergesort  
 🦑 adaptive Octosort and Squidsorts duck Timsort  
 🦚 and some more beautiful powerful algorithms  
-🦤 even the extinct Dodosort was re-invented (didactic joke)  
+🦤 even the extinct Dodosort was re-invented  
 
 🚦 greeNsort waits for sponsoring  
 📗 to write the greeNsort book  
