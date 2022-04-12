@@ -9,17 +9,17 @@
 🚀 designing and testing many innovative algorithms  
 🚴 such that they are sustainable  
 
-🌵 Result? A a thorny 12-year journey  
+🌵 <i><a href="https://greensort.org/results.html">Result?</a></i> A a thorny 12-year journey  
 🍄 identifing poisened limiting assumptions  
 🌻 desiging a new theory of sorting with  
 📐 new sustainability measurements   
 🎨 new methods that are simple and beautiful     
 🔧 new algorithms with better trade-offs  
 
-🦆 <a href="https://greensort.org/glossary.html#ducksort">Ducksort</a> ducks prior-art Quicksort algorithms  
-🦢 plus stable Swansort and travelling Storksort  
-🦎 Frogsorts, Geckosort need less memory than Mergesort  
-🦑 adaptive Octosort and Squidsorts duck Timsort  
+🦆 <i><a href="https://greensort.org/glossary.html#ducksort">Ducksort</a></i> ducks prior-art <i><a href="https://greensort.org/glossary.html#quicksort">Quicksort</a></i> algorithms  
+🦢 plus stable <i><a href="https://greensort.org/glossary.html#swansort">Swansort</a></i> and travelling <i><a href="https://greensort.org/glossary.html#storksort">Storksort</a></i>  
+🦎 <i><a href="https://greensort.org/glossary.html#frogsort">Frogsort</a></i>, <i><a href="https://greensort.org/glossary.html#geckosort">Geckosort</a></i> need less memory than Mergesort  
+🦑 adaptive <i><a href="https://greensort.org/glossary.html#octosort">Octosort</a></i> and <i><a href="https://greensort.org/glossary.html#squidsort">Squidsort</a></i> duck <i><a href="https://greensort.org/glossary.html#timsort">Timsort</a></i>  
 🦚 and some more beautiful powerful algorithms  
 🦤 even the extinct Dodosort was re-invented  
 
