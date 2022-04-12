@@ -1,8 +1,8 @@
 🏡 This is the central <i>greeNsort®</i> repository  
 🌱 <i>greeNsort®</i> makes software greener  
 🌿 less runtime, energy and CO2  
-🌳 less memory and better hardware amortization      
-🔋 saves up to 4 nuclear power stations worldwide 
+🌳 less memory hence better hardware amortization      
+🔋 saves <i><a href="https://greensort.org/index.html#greensort-can-provide-huge-savings">up to 4 nuclear power stations worldwide</a></i> 
 
 💡 How? Better sorting algorithms in central software components  
 🚂 Method: analyzing the prior-art and  
