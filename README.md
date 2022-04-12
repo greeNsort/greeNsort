@@ -8,6 +8,7 @@
 💡 How? Better sorting algorithms in central software components  
 🚂 Method: analyzing the prior-art and  
 🚀 designing and testing many innovative algorithms  
+🚴 such that they are sustainable  
 
 🌵 Result? A a thorny 12-year journey  
 🍄 identifing poisened limiting assumptions  
