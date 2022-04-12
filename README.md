@@ -27,7 +27,7 @@
 📗 to write the greeNsort book  
 🌋 join me to fight the climate crisis  
 
-🎎 Who am I? Old, male and married   
+🎎 <i><a href="https://greensort.org/about.html#author">Who am I?</a></i> Old, male and married   
 🎶 Hobby? Piano playing  
 🧬 Job? Data Scientist, System architect  
 🍼 Education? Programming, Psychology, Statistics  
