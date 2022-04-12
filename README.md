@@ -1,6 +1,6 @@
 
-🏡 This is the central @greeNsort repository  
-🌱 @greeNsort makes software more sustainable  
+🏡 This is the central <i>greeNsort®</i> repository  
+🌱 <i>greeNsort®</i> makes software greener  
 🌿 less runtime, energy and CO2  
 🌳 less memory and better hardware amortization      
 🔋 saves up to 4 nuclear power stations worldwide 
@@ -12,7 +12,7 @@
 🌵 Result? A a thorny 12-year journey  
 🍄 identifing poisened limiting assumptions  
 🌻 desiging a new theory of sorting including  
-📐 new sustainable measurements and  
+📐 new sustainability measurements and  
 🎨 new methods that are simple and beautiful and    
 🔧 new algorithms with better trade-offs  
 
