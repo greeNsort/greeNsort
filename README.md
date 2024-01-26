@@ -4,10 +4,10 @@
 🍀 <i>greeNsort®</i> R package with partially novel C-algorithms and R-testbed (not tuned for fair comparison)  
 🍁 <i>greeNsort®</i> R package with prior art C++ algorithms (tuned, not comparable)  
 
-🌱 <i>greeNsort®</i> algorithms are designed to make software greener
+🌱 <i>greeNsort®</i> algorithms are designed to make software greener  
 🌿 less runtime, energy and CO2  
-🌳 less memory hence better hardware amortization      
-🔋 can save <i><a href="https://greensort.org/WhyWhatHowmuch.html">up to 4 nuclear power stations worldwide</a></i> 
+🌳 less memory hence better hardware amortization  
+🔋 can save <i><a href="https://greensort.org/WhyWhatHowmuch.html">up to 4 nuclear power stations worldwide</a></i>  
 
 💡 How? Better sorting algorithms in central software components  
 🚂 Method: analyzing the prior-art and  
@@ -17,8 +17,8 @@
 🌵 <i><a href="https://greensort.org/results.html">Result?</a></i> A a thorny 12-year journey  
 🍄 identifing poisened limiting assumptions  
 🌻 desiging a new theory of sorting with  
-📐 new <i><a href="https://greensort.org/GSF_SCI.html">sustainability measurements</a></i>   
-🎨 new methods that are simple and beautiful     
+📐 new <i><a href="https://greensort.org/GSF_SCI.html">sustainability measurements</a></i>  
+🎨 new methods that are simple and beautiful  
 🔧 new <i><a href="https://greensort.org/portfolio.html">algorithms</a></i> with better trade-offs  
 
 🦆 <i><a href="https://greensort.org/glossary.html#ducksort">Ducksort</a></i> ducks prior-art <i><a href="https://greensort.org/glossary.html#quicksort">Quicksort</a></i> algorithms  
