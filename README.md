@@ -1,8 +1,13 @@
-🏡 This is the central <i>greeNsort®</i> repository  
-🌱 <i>greeNsort®</i> makes software greener  
+🏡 This is the central <i>greeNsort®</i> repository of <i><a href="https://greensort.org/index.html">greensort.org</a></i> containing
+📰 <i>greeNsort®</i> Article
+📖 <i>greeNsort®</i> Report
+🍀 <i>greeNsort®</i> R package with partially novel C-algorithms and R-testbed (not tuned for fair comparison)
+🍁 <i>greeNsort®</i> R package with prior art C++ algorithms (tuned, not comparable)
+
+🌱 <i>greeNsort®</i> algorithms are designed to make software greener
 🌿 less runtime, energy and CO2  
 🌳 less memory hence better hardware amortization      
-🔋 saves <i><a href="https://greensort.org/index.html#greensort-can-provide-huge-savings">up to 4 nuclear power stations worldwide</a></i> 
+🔋 can save <i><a href="https://greensort.org/WhyWhatHowmuch.html">up to 4 nuclear power stations worldwide</a></i> 
 
 💡 How? Better sorting algorithms in central software components  
 🚂 Method: analyzing the prior-art and  
@@ -23,14 +28,4 @@
 🦚 and some more beautiful powerful algorithms  
 🦤 even the extinct Dodosort was re-invented  
 
-🚦 greeNsort waits for sponsoring  
-📗 to write the greeNsort book  
-🌋 join me to fight the climate crisis  
-
-🎎 <i><a href="https://greensort.org/about.html#author">Who am I?</a></i> Old, male and married   
-🎶 Hobby? Piano playing  
-🧬 Job? Data Scientist, System architect  
-🍼 Education? Programming, Psychology, Statistics  
-
-🚧 This site is under construction (no algorithms until sponsoring)  
 🔭 For more information see <i><a href="www.greensort.org">greensort.org</a></i>  
