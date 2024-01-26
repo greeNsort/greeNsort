@@ -1,4 +1,4 @@
-🏡 This is the central <i>greeNsort®</i> repository of <i><a href="https://greensort.org/index.html">greensort.org</a></i> containing  
+🏡 This is the central repository of <i><a href="https://greensort.org/index.html">greensort.org</a></i> containing  
 📰 <i>greeNsort®</i> Article  
 📖 <i>greeNsort®</i> Report  
 🍀 <i>greeNsort®</i> R package with partially novel C-algorithms and R-testbed (not tuned for fair comparison)  
