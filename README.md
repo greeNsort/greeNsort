@@ -14,7 +14,7 @@
 🚀 designing and testing many innovative algorithms  
 🚴 such that they are sustainable  
 
-🌵 <i><a href="https://greensort.org/results.html">Result?</a></i> A a thorny 12-year journey  
+🌵 <i><a href="https://greensort.org/results.html">Result?</a></i> A thorny journey into the history of sorting  
 🍄 identifing poisened limiting assumptions  
 🌻 desiging a new theory of sorting with  
 📐 new <i><a href="https://greensort.org/GSF_SCI.html">sustainability measurements</a></i>  
