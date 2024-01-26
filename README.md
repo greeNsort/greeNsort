@@ -1,7 +1,7 @@
 🏡 This is the central repository of <i><a href="https://greensort.org/index.html">greensort.org</a></i> containing  
 📰 <i>greeNsort®</i> Article  
 📖 <i>greeNsort®</i> Report  
-🍀 <i>greeNsort®</i> <i><a href="https://www.r-project.org/R">R</a></i> package with partially novel C-algorithms and R-testbed (not tuned for fair comparison)  
+🍀 <i>greeNsort®</i> <i><a href="https://www.r-project.org">R</a></i> package with partially novel C-algorithms and R-testbed (not tuned for fair comparison)  
 🍁 <i>greeNsort®</i> <i><a href="https://cran.r-project.org/package=Rcpp">Rcpp</a></i> package with prior art C++ algorithms (tuned, not comparable)  
 
 🌱 <i>greeNsort®</i> algorithms are designed to make software greener  
