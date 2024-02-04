@@ -15,12 +15,13 @@
 🚀 designing and testing many innovative algorithms  
 🚴 such that they are more sustainable  
 
+🌵 after a thorny journey  
 🍄 we identifed poisened limiting assumptions  
 🌻 designed a new theory of sorting with  
 📐 new [sustainability measurements](https://greensort.org/GSF_SCI.html)  
 🎨 new techniques that are simple and beautiful  
-🔧 new [algorithms](https://greensort.org/portfolio.html)  that are sustainable  
-🌵 and have nice [empirical results](https://greensort.org/results.html)  
+🔧 new [algorithms](https://greensort.org/portfolio.html) that are sustainable  
+📊 and have nice [empirical results](https://greensort.org/results.html)  
 
 🦆 [Ducksort](https://greensort.org/glossary.html#ducksort)  is more adaptive than [binary Quicksort](https://greensort.org/glossary.html#quicksort2) and more efficient than [ternary Quicksort](https://greensort.org/glossary.html#quicksort3)  
 🦢 stable [Swansort](https://greensort.org/glossary.html#swansort) has better chache-locality than conventional stable binary partitioning, and travelling [Storksort](https://greensort.org/glossary.html#storksort) also needs less RAM  
