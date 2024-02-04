@@ -1,33 +1,33 @@
-🚧 This repository is under construction - should be launched early February 2024
+🏡 This is the central repository of the *greeNsort®* [project](https://greensort.org/index.html)  
 
-🏡 This is the central repository of <i><a href="https://greensort.org/index.html">greensort.org</a></i> containing  
-📰 <i>greeNsort®</i> Article  
-📖 <i>greeNsort®</i> Report  
-🍀 <i>greeNsort®</i> <i><a href="https://www.r-project.org">R</a></i> package with partially novel C-algorithms and R-testbed (not tuned for fair comparison)  
-🍁 <i>greeNsort®</i> <i><a href="https://cran.r-project.org/package=Rcpp">Rcpp</a></i> package with prior art C++ algorithms (tuned, not comparable)  
+📰 *greeNsort®* [article](https://github.com/greeNsort/greeNsort.article/)  
+📖 *greeNsort®* [report](https://github.com/greeNsort/greeNsort.report/)  
+🍀 *greeNsort®* [R package](https://github.com/greeNsort/greeNsort.R/) with partially novel C-algorithms and R-testbed (not tuned for fair comparison)  
+🍁 *greeNsort®* [Rcpp package](https://github.com/greeNsort/greeNsort.Rcpp/) with prior art C++ algorithms (tuned, not comparable)  
 
-🌱 <i>greeNsort®</i> algorithms are designed to make software greener  
-🌿 less runtime, energy and CO2  
-🌳 less memory hence better hardware amortization  
-🔋 can save <i><a href="https://greensort.org/WhyWhatHowmuch.html">up to 4 nuclear power stations worldwide</a></i>  
+🌱 *greeNsort®* algorithms are designed to make software greener  
+🌿 need less runtime, energy and CO2  
+🌳 need less memory hence better hardware amortization  
+🔋 can save up to [4 nuclear power stations worldwide](https://greensort.org/WhyWhatHowmuch.html)  
 
 💡 How? Better sorting algorithms in central software components  
-🚂 Method: analyzing the prior-art and  
+🚂 Research method: analyzing the prior-art and  
 🚀 designing and testing many innovative algorithms  
-🚴 such that they are sustainable  
+🚴 such that they are more sustainable  
 
-🌵 <i><a href="https://greensort.org/results.html">Result?</a></i> A thorny journey into the history of sorting  
-🍄 identifing poisened limiting assumptions  
-🌻 desiging a new theory of sorting with  
-📐 new <i><a href="https://greensort.org/GSF_SCI.html">sustainability measurements</a></i>  
-🎨 new methods that are simple and beautiful  
-🔧 new <i><a href="https://greensort.org/portfolio.html">algorithms</a></i> with better trade-offs  
+🍄 we identifed poisened limiting assumptions  
+🌻 designed a new theory of sorting with  
+📐 new [sustainability measurements](https://greensort.org/GSF_SCI.html)  
+🎨 new techniques that are simple and beautiful  
+🔧 new [algorithms](https://greensort.org/portfolio.html)  that are sustainable  
+🌵 and have nice [empirical results](https://greensort.org/results.html)  
 
-🦆 <i><a href="https://greensort.org/glossary.html#ducksort">Ducksort</a></i> ducks prior-art <i><a href="https://greensort.org/glossary.html#quicksort">Quicksort</a></i> algorithms  
-🦢 plus stable <i><a href="https://greensort.org/glossary.html#swansort">Swansort</a></i> and travelling <i><a href="https://greensort.org/glossary.html#storksort">Storksort</a></i>  
-🦎 <i><a href="https://greensort.org/glossary.html#frogsort">Frogsort</a></i>, <i><a href="https://greensort.org/glossary.html#geckosort">Geckosort</a></i> need less memory than Mergesort  
-🦑 adaptive <i><a href="https://greensort.org/glossary.html#octosort">Octosort</a></i> and <i><a href="https://greensort.org/glossary.html#squidsort">Squidsort</a></i> duck <i><a href="https://greensort.org/glossary.html#timsort">Timsort</a></i>  
+🦆 [Ducksort](https://greensort.org/glossary.html#ducksort)  is more adaptive than [binary Quicksort](https://greensort.org/glossary.html#quicksort2) and more efficient than [ternary Quicksort](https://greensort.org/glossary.html#quicksort3)  
+🦢 stable [Swansort](https://greensort.org/glossary.html#swansort) has better chache-locality than conventional stable binary partitioning, and travelling [Storksort](https://greensort.org/glossary.html#storksort) also needs less RAM  
+🐸 adaptive [Frogsort](https://greensort.org/glossary.html#frogsort) needs less memory than Mergesort  
+🦎 semi-bi-adaptive [Geckosort](https://greensort.org/glossary.html#geckosort) needs less memory than Mergesort  
+🦑 bi-adaptive [Octosort](https://greensort.org/glossary.html#octosort) is much more adaptive than Mergesort, and bi-adaptive [Squidsort](https://greensort.org/glossary.html#squidsort) also needs less RAM and beats [Timsort](https://greensort.org/glossary.html#timsort)  
 🦚 and some more beautiful powerful algorithms  
-🦤 even the extinct Dodosort was re-invented  
+<!-- 🦤 even the extinct Dodosort was re-surrected  -->
 
-🔭 For more information see <i><a href="www.greensort.org">greensort.org</a></i>  
+🔭 For more information see [greensort.org](www.greensort.org)  
