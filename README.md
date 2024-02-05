@@ -25,7 +25,7 @@
 
 ↯ [Zacksort](https://greensort.org/glossary.html#zacksort) and [Zucksort](https://greensort.org/glossary.html#zucksort) are more adaptive than [binary Quicksort](https://greensort.org/glossary.html#quicksort2) and more efficient than [ternary Quicksort](https://greensort.org/glossary.html#quicksort3)  
 🦆 [Ducksort](https://greensort.org/glossary.html#ducksort) is more adaptive than Zacksort and Zucksort  
-🦢 [Swansort](https://greensort.org/glossary.html#swansort) is stable and has better chache-locality than conventional stable binary partitioning, and travelling [Storksort](https://greensort.org/glossary.html#storksort) also needs less RAM  
+🦢 [Swansort](https://greensort.org/glossary.html#swansort) is stable and cache-friendlier than conventional stable binary partitioning, and travelling [Storksort](https://greensort.org/glossary.html#storksort) also needs less RAM  
 🐸 [Frogsort](https://greensort.org/glossary.html#frogsort) is more adaptive, cache-friendlier and needs less memory than Mergesort  
 🦎 [Geckosort](https://greensort.org/glossary.html#geckosort) is semi-bi-adaptive, cache-friendlier and needs less memory than Mergesort  
 🦑 [Octosort](https://greensort.org/glossary.html#octosort) is full bi-adaptive, and [Squidsort](https://greensort.org/glossary.html#squidsort) is cache-friendlier and needs less RAM: both sort faster than [Timsort](https://greensort.org/glossary.html#timsort)  
