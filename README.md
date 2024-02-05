@@ -1,4 +1,4 @@
-🏡 This is the central repository of the *greeNsort®* [project](https://greensort.org/index.html)  
+🏡 This is the central code repository of the [*greeNsort®* project](www.greensort.org) for symmetric sustainable sorting  
 
 📰 *greeNsort®* [article](https://github.com/greeNsort/greeNsort.article/)  
 📖 *greeNsort®* [report](https://github.com/greeNsort/greeNsort.report/)  
