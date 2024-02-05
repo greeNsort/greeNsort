@@ -23,11 +23,12 @@
 🔧 new [algorithms](https://greensort.org/portfolio.html) that are sustainable  
 📊 and have nice [empirical results](https://greensort.org/results.html)  
 
-🦆 [Ducksort](https://greensort.org/glossary.html#ducksort)  is more adaptive than [binary Quicksort](https://greensort.org/glossary.html#quicksort2) and more efficient than [ternary Quicksort](https://greensort.org/glossary.html#quicksort3)  
-🦢 stable [Swansort](https://greensort.org/glossary.html#swansort) has better chache-locality than conventional stable binary partitioning, and travelling [Storksort](https://greensort.org/glossary.html#storksort) also needs less RAM  
-🐸 adaptive [Frogsort](https://greensort.org/glossary.html#frogsort) needs less memory than Mergesort  
-🦎 semi-bi-adaptive [Geckosort](https://greensort.org/glossary.html#geckosort) needs less memory than Mergesort  
-🦑 bi-adaptive [Octosort](https://greensort.org/glossary.html#octosort) is much more adaptive than Mergesort, and bi-adaptive [Squidsort](https://greensort.org/glossary.html#squidsort) also needs less RAM and beats [Timsort](https://greensort.org/glossary.html#timsort)  
+↯ [Zacksort](https://greensort.org/glossary.html#zacksort) and [Zucksort](https://greensort.org/glossary.html#zucksort) are more adaptive than [binary Quicksort](https://greensort.org/glossary.html#quicksort2) and more efficient than [ternary Quicksort](https://greensort.org/glossary.html#quicksort3)  
+🦆 [Ducksort](https://greensort.org/glossary.html#ducksort) is more adaptive than Zacksort and Zucksort  
+🦢 [Swansort](https://greensort.org/glossary.html#swansort) is stable and has better chache-locality than conventional stable binary partitioning, and travelling [Storksort](https://greensort.org/glossary.html#storksort) also needs less RAM  
+🐸 [Frogsort](https://greensort.org/glossary.html#frogsort) is more adaptive, cache-friendlier and needs less memory than Mergesort  
+🦎 [Geckosort](https://greensort.org/glossary.html#geckosort) is semi-bi-adaptive, cache-friendlier and needs less memory than Mergesort  
+🦑 [Octosort](https://greensort.org/glossary.html#octosort) is full bi-adaptive, and [Squidsort](https://greensort.org/glossary.html#squidsort) is cache-friendlier and needs less RAM: both sort faster than [Timsort](https://greensort.org/glossary.html#timsort)  
 🦚 and some more beautiful powerful algorithms  
 <!-- 🦤 even the extinct Dodosort was re-surrected  -->
 
